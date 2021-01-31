@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dizionario</string>
+    <string name="inputDaCercareStringa">Cosa vuoi cercare?</string>
+    <string name="buttonCercaStringa">CERCA</string>
+</resources>
